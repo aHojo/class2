@@ -1,2 +1,7 @@
 # class2
-test repo for LPS Coding bootcamp
+Example repo for LPS Coding Bootcamp
+
+ONE PUUUNCH!!!!!!!!!!!!!!!!!!!!
+
+
+
